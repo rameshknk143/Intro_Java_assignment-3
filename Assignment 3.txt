@@ -1,0 +1,12 @@
+
+public class Assignment {
+	public static void main(String[]args){
+		float a = 111.2231f;
+		float b = 222.22f;
+		double c = (a+b);
+		
+	  System.out.println(c);
+	}  
+}
+
+
